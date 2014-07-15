@@ -1,0 +1,47 @@
+Practica
+
+- Que permisologia tiene los siguientes archivos
+rwxrwx--- 4 2 1      4 2 1 
+--------- 
+rw-rw---- 4 2        4 2
+r-xr-xr-x 4    1 4 1 4 4
+---rw-r-x 4 2  4 1
+--x--x--x 1 1 1
+
+
+- Ejecuten la búsqueda con grep buscando cunaguaro y guarde la salida en un archivo llamado
+firefox 
+ps -aux | sort  cunaguaro
+
+-Cuanto pesa tu /home/ y cuanto pesa /etc
+
+
+
+- Se requiere guardar un archivo dentro de la configuración de la memoria del computador dentro
+de un archivo llamado memoria.txt
+
+-Se requiere guardar toda la configuración de la versión del kernel en un archivo llamado kernel.txt
+
+- Como matamos un proceso del computador
+
+- Que hace el respectivo comando $cat toto > toto2
+
+- Cree una carpeta con tu nombre 
+
+- Dentro de la carpeta, creamos tres archivos de nombre c1 c2 c3 
+
+- Guardamos en el c1 su nombre completo
+
+- Guardamos el c3 el correo electrónico
+
+- Describa a continuación la función de los siguientes directorios
+
+/bin     
+/home/
+/media
+/var  
+/	
+/sbin
+/boot
+
+
